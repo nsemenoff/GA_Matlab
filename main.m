@@ -35,3 +35,4 @@ t_bf_start = tic;
 BF_time = toc(t_bf_start);
 
 fprintf('Brute-force: N=%d, best=%.3f, time=%.3fs\n', N_BF, bestLenBF, BF_time); 
+disp('lkasjdbf lkajsnb flbnsal dafbj klsafbj kldbkldajb sadkljb')
